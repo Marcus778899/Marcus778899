@@ -1,55 +1,54 @@
-<!-- ## Hi there 👋 -->
+# 🚀 Marcus (Sheng-Lun) Lin
 
-<!--
-**Marcus778899/Marcus778899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Data Engineer | ETL Architecture & Database Optimization**
 
-Here are some ideas to get you started:
+I am a **Data Engineer** with 3+ years of experience specializing in high-performance data storage and automated pipeline orchestration. I focus on optimizing **ETL/ELT workflows** and leveraging **OLAP databases** to turn large-scale logs into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Marcus (Sheng-Lun) Lin
+---
 
-## About Me
-I'm a Data Engineer with over 3 years of experience in the finance and technology sectors. I specialize in building robust data pipelines, automating reporting processes, and developing back-end systems to enhance data integration and efficiency.
+### Technical Stack
 
-## Skills
+| Category | Tools & Technologies |
+| --- | --- |
+| **Languages** | `Python`, `Java`, `SQL`, `Shell Script` |
+| **Data Engineering** | `Apache Airflow`, `Spark`, `Hadoop Ecosystem` |
+| **Databases** | `Clickhouse`, `MongoDB`, `Redis`, `MySQL`, `MariaDB` |
+| **Development** | `Docker`, `GitLab CI/CD`, `Linux (Ubuntu)` |
 
-### Languages
-- Python
-- C++
-- Java
-- Shell Script
-- SQL
+---
 
-### Databases
-- MySQL
-- MariaDB
-- Cassandra
-- Redis
-- Clickhouse
+### Professional Experience & Core Projects
 
-### Deployment
-- Git
-- Docker
-- Kubernetes
-- GitLab CI/CD
+* **High-Performance Data Warehousing**
+* Optimized **Clickhouse** storage solutions, implementing effective partitioning and indexing strategies to handle terabytes of historical logs.
+* Significantly reduced query latency for high-frequency data retrieval, enabling real-time analytical capabilities.
 
-### Data Platforms
-- Apache Airflow
-- Kafka
-- Spark
-- Hadoop
 
-### Operating Systems
-- Linux (Ubuntu 22.04)
-- Windows
+* **Scalable Data Pipeline Orchestration**
+* Architected and managed complex DAGs via **Apache Airflow**, automating the full data lifecycle from raw ingestion to production-ready reporting layers.
+* Integrated **Spark** for distributed processing, achieving a 40%+ improvement in transformation speed compared to legacy systems.
 
-## Contact
-Feel free to reach out to me at [s09203647@gmail.com](mailto:s09203647@gmail.com).
+
+* **Backend Automation & System Integration**
+* Developed robust backend services and **API integrations** to bridge diverse data sources and improve system interoperability.
+* Leveraged **Redis** for high-speed caching and **Docker** for consistent service containerization across environments.
+
+
+* **Development Workflow Optimization**
+* Established **GitLab CI/CD** pipelines to automate testing and deployment, ensuring high reliability of data services and minimizing production risks.
+
+
+
+---
+
+### Connect with Me
+
+* **LinkedIn**: [linkedin.com/in/marcus-lin](https://www.google.com/search?q=https://www.linkedin.com/in/marcus-807788284/)
+* **Email**: [s09203647@gmail.com](mailto:s09203647@gmail.com)
+* **Location**: Taipei, Taiwan 🇹🇼
+
+---
+
+### Technical Interests
+
+I am focused on **Database Internals** and **Distributed Systems**. Currently exploring advanced data modeling techniques and enhancing system observability for large-scale data infrastructures.
