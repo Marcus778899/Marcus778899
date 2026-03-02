@@ -1,4 +1,4 @@
-# 🚀 Marcus (Sheng-Lun) Lin
+# Marcus (Sheng-Lun) Lin
 
 ### **Data Engineer | ETL Architecture & Database Optimization**
 
